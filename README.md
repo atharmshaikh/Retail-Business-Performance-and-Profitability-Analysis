@@ -149,7 +149,7 @@ ORDER BY growth DESC;
 Retail-Performance-Analysis/
 ├── cleaned_orders.csv
 ├── queries.sql
-├── Tableau_Dashboard.twbx (or .pdf)
+├── Dashboard.twbx
 ├── screenshots/
 │   └── Dashboard.png
 ├── README.md
