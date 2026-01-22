@@ -1,3 +1,42 @@
+<!-- ===================== ARCHIVED NOTICE ===================== -->
+
+# ⚠️ ARCHIVED REPOSITORY
+
+> **Status:** Archived · No longer actively maintained
+
+This repository has been **archived** and is no longer actively maintained.
+
+The work originally contained here has been **migrated, refactored, and consolidated** into a single unified **Data Analyst Internship** repository.
+
+All future updates, improvements, and documentation for this project are maintained **only in the central internship repository**.
+
+---
+
+### Redirect to Active Project
+
+[![Redirect to Active Capstone Project](https://img.shields.io/badge/Redirect-Active%20Capstone-green?style=for-the-badge)](https://github.com/atharmshaikh/data-analyst-internship-tasks/tree/main/Capstone_Retail_Performance_Analysis)
+
+**Active, maintained version:**  
+https://github.com/atharmshaikh/data-analyst-internship-tasks/tree/main/Capstone_Retail_Performance_Analysis
+
+---
+
+## Why This Repository Was Archived
+
+- This repository represented an **early, standalone submission**
+- The project was later **rebuilt from scratch** with improved structure
+- Documentation, analysis flow, dashboards, and insights were **refined**
+- Version control and repository organization were **standardized**
+- Maintaining multiple sources was avoided to preserve a **single source of truth**
+
+---
+
+## Historical Reference
+
+This archived repository is preserved **strictly for historical reference**.  
+No further changes, fixes, or enhancements will be made.
+
+<!-- =========================================================== -->
 
 # 🛍️ Retail Business Performance & Profitability Analysis
 
